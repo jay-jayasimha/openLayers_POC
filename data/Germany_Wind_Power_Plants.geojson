@@ -1,0 +1,135 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.2545,53.3637 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Holtriem",
+    "Location":"Lower Saxony",
+    "Capacity (MW)":207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.5413,54.3640 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Reußenköge",
+    "Location":"Schleswig-Holstein",
+    "Capacity (MW)":203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.1911,53.4255 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Werder/Kessin",
+    "Location":"Mecklenburg-Vorpommern",
+    "Capacity (MW)":201
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.5751,51.754 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Stößen-Teuchern",
+    "Location":"Sachsen-Anhalt",
+    "Capacity (MW)":183
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.4651,52.3057 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Hüselitz",
+    "Location":"Sachsen-Anhalt",
+    "Capacity (MW)":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.280,54.260 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Hohe See",
+    "Location":"North Sea",
+    "Capacity (MW)":497
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.2944,54.580 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Borkum Riffgrund 2",
+    "Location":"North Sea",
+    "Capacity (MW)":464
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [5.520,54.1900 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Veja Mate",
+    "Location":"North Sea",
+    "Capacity (MW)":402
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [5.5848,54.2118 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"BARD",
+    "Location":"North Sea",
+    "Capacity (MW)":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.2438,54.1543 ]
+    },
+    "properties": {
+	"Type":"Wind Power Source",
+    "Name":"Global Tech I",
+    "Location":"North Sea",
+    "Capacity (MW)":400
+    }
+  }
+]
+}

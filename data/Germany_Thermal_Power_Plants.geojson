@@ -1,0 +1,1587 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.2221, 48.4312 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Altbach Power Station",
+    "Location":"Altbach, Baden-Württemberg",
+    "Capacity (MW)":"1270",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.34316, 51.31237 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Asdonkshof Waste Incineration Plant",
+    "Location":"Kamp-Lintfort, North Rhine-Westphalia",
+    "Capacity (MW)":"22 (98)",
+    "Remarks":"1995 - Waste"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.37145,51.38126 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bergkamen Power Station",
+    "Location":"Bergkamen, North Rhine-Westphalia",
+    "Capacity (MW)":"747",
+    "Remarks":"1981 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.30377,52.386 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Buch Power Plant",
+    "Location":"Berlin",
+    "Capacity (MW)":"5",
+    "Remarks":"1974 - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.18318,52.31196 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Charlottenburg Heating Power Plant",
+    "Location":"Berlin-Charlottenburg",
+    "Capacity (MW)":"215",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.3454,52.267 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Köpenick Power Plant",
+    "Location":"Berlin",
+    "Capacity (MW)":"10",
+    "Remarks":" - Gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.1835,52.25291 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Lichterfelde Power Plant",
+    "Location":"Berlin",
+    "Capacity (MW)":"450",
+    "Remarks":"1974 - Gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.2045,52.3215 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Moabit Heating Power Plant",
+    "Location":"Berlin-Moabit",
+    "Capacity (MW)":"150",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.25157,52.30413 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Mitte Heating Power Plant",
+    "Location":"Berlin-Mitte",
+    "Capacity (MW)":"440",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.14402,52.3245 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Reuter/West Power Plant",
+    "Location":"Berlin-Charlottenburg",
+    "Capacity (MW)":"600",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.14449,52.31519 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Reutter",
+    "Location":"Berlin-Charlottenburg",
+    "Capacity (MW)":"165",
+    "Remarks":"1930 - Waste"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.18282,52.28539 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Wilmersdorf Heating Power Plant",
+    "Location":"Berlin-Mitte",
+    "Capacity (MW)":"330",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.29459,52.29249 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Klingenberg Power Plant",
+    "Location":"Berlin",
+    "Capacity (MW)":"188",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.31196,52.31245 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berlin-Lichtenberg Power Plant",
+    "Location":"Berlin",
+    "Capacity (MW)":"36",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.4926,50.5155 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Berrenrath Industrial Power Plant",
+    "Location":"Berrenrath",
+    "Capacity (MW)":"107",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.14138,49.21481 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bexbach Power Station",
+    "Location":"Bexbach, Saarland",
+    "Capacity (MW)":"773",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.13103,51.2759 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bochum Heating Power Plant",
+    "Location":"Bochum",
+    "Capacity (MW)":"21",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [14.33416,51.24535 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Boxberg Power Station",
+    "Location":"Boxberg, Saxony",
+    "Capacity (MW)":"2575",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.30536,52.16437 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Braunschweig-Mitte Heating Power Plant",
+    "Location":"Braunschweig, Lower Saxony",
+    "Capacity (MW)":"319",
+    "Remarks":"1983 - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.30576,53.1275 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bremen-Farge Power Plant",
+    "Location":"Bremen",
+    "Capacity (MW)":"343",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.491,53.651 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bremen-Findorff Waste Incineration Plant",
+    "Location":"Bremen",
+    "Capacity (MW)":"15",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.43431,53.7294 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Unit 6 of Bremen-Hafen Power Station",
+    "Location":"Bremen",
+    "Capacity (MW)":"450",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.5223,53.0335 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bremen-Hastedt Power Plant",
+    "Location":"Bremen",
+    "Capacity (MW)":"280",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.4102,53.07443 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bremen-Mittelsbüren Power Plant",
+    "Location":"Bremen",
+    "Capacity (MW)":"280",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.4229,51.02307 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Bridge of Nossen Heating Power Plant",
+    "Location":"Dresden",
+    "Capacity (MW)":"270",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.58379,52.10185 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Buschhaus Power Station",
+    "Location":"Helmstedt, Lower Saxony",
+    "Capacity (MW)":"380",
+    "Remarks":"1984 - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.18499,51.34497 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Castrop-Rauxel Power Station",
+    "Location":"Castrop-Rauxel, North Rhine-Westphalia",
+    "Capacity (MW)":"290",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.55259,50.51281 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Power Plant Chemnitz",
+    "Location":"Chemnitz",
+    "Capacity (MW)":"195",
+    "Remarks":" - Coal (lignite), gas, Oil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.24499,51.24151 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Cuno Power Station",
+    "Location":"Herdecke, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.31408,51.34128 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Dortmund-Derne Power Station",
+    "Location":"Dortmund-Derne, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.46598,51.1284 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Dresden-Reick Heating Power Station",
+    "Location":"Dresden-Reick, Saxony",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.19523,51.37486 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Datteln Power Station",
+    "Location":"Datteln",
+    "Capacity (MW)":"1100",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.18201,52.28503 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Emsland Natural Gas Power Plant",
+    "Location":"Lingen",
+    "Capacity (MW)":"864",
+    "Remarks":" - Natural gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.46183,49.17404 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Ensdorf Power Plant",
+    "Location":"Ensdorf",
+    "Capacity (MW)":"430",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.59373,51.30538 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Essen-Karnap Incineration Plant",
+    "Location":"Essen-Karnap, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":" - Waste"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.00274,49.25148 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Franken I Power Plant",
+    "Location":"Nuremberg",
+    "Capacity (MW)":"843",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.5825,49.3347 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Franken II Power Station",
+    "Location":"Erlangen, Bavaria",
+    "Capacity (MW)":"",
+    "Remarks":"1963/64 - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.3956,50.05488 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Frankfurt Traction Current Power Plant",
+    "Location":"Frankfurt",
+    "Capacity (MW)":"12",
+    "Remarks":"1966 - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.3642,48.1118 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Freimann Heating Power Plant",
+    "Location":"Munich",
+    "Capacity (MW)":"160",
+    "Remarks":" - Natural gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.34331,51.3169 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Frimmersdorf Power Station",
+    "Location":"Frimmersdorf, North Rhine-Westphalia",
+    "Capacity (MW)":"623",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.13248,50.1481 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Gemeinschaftskraftwerk Schweinfurt",
+    "Location":"Schweinfurt",
+    "Capacity (MW)":"126",
+    "Remarks":" - Coal, Waste"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.3484,50.54189 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Gera-Nord Heating Power Station (3 Essen)",
+    "Location":"Gera, Thuringia",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.43148,51.40249 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Gersteinwerk",
+    "Location":"Werne, North Rhine-Westphalia",
+    "Capacity (MW)":"2127",
+    "Remarks":"1984 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.5074,50.51407 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Goldenberg Power Plant",
+    "Location":"Hürth",
+    "Capacity (MW)":"171",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.5757,50.5176 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Grosskrotzenburg Power Station",
+    "Location":"Großkrotzenburg, Hessen",
+    "Capacity (MW)":"1132",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.20567,51.34062 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Gustav Knepper Power Station",
+    "Location":"Dortmund, North Rhine-Westphalia",
+    "Capacity (MW)":"350",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [14.5655,51.342 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Hagenwerder Power Plant, Unit III",
+    "Location":"Görlitz/Hagenwerder, Saxony",
+    "Capacity (MW)":"",
+    "Remarks":"1972/73 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.5812,51.4049 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Hamm-Schmehausen Power Station",
+    "Location":"Hamm-Schmehausen, North Rhine-Westphalia",
+    "Capacity (MW)":"850",
+    "Remarks":" - Natural gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.38513,52.2513 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Hannover-Stöcken Power Plant",
+    "Location":"Hannover",
+    "Capacity (MW)":"230",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.11157,51.3326 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Herne Power Station",
+    "Location":"Herne, North Rhine-Westphalia",
+    "Capacity (MW)":"950",
+    "Remarks":"1989 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.12279,49.10311 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Heilbronn Power Station",
+    "Location":"Heilbronn, Baden-Württemberg",
+    "Capacity (MW)":"1130",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.5955,52.22539 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Heyden Power Station",
+    "Location":"Petershagen, North Rhine-Westphalia",
+    "Capacity (MW)":"920",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.44453,52.1791 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Ibbenbüren Power Station",
+    "Location":"Ibbenbüren, North Rhine-Westphalia",
+    "Capacity (MW)":"770",
+    "Remarks":"1985 - Anthracite"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.30113,48.45433 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Ingolstadt Power Station",
+    "Location":"Ingolstadt, Bavaria",
+    "Capacity (MW)":"840",
+    "Remarks":" - Oil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.34459,48.4612 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Irsching Power Station",
+    "Location":"Irsching, Bavaria",
+    "Capacity (MW)":"1869",
+    "Remarks":" - Natural gas, Oil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [14.27109,51.49567 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Power Plant Jänschwalde",
+    "Location":"Jänschwalde",
+    "Capacity (MW)":"3000",
+    "Remarks":"1981 - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.3512,50.53513 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Jena Heating Power Station",
+    "Location":"Jena, Thuringia",
+    "Capacity (MW)":"225",
+    "Remarks":" - Natural gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.20516,49.0508 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Karlsruhe-West Heating Power Plant",
+    "Location":"Karlsruhe",
+    "Capacity (MW)":"33",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.1829,49.047 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Karlsruhe RDK 7 and 8",
+    "Location":"Karlsruhe",
+    "Capacity (MW)":"1827",
+    "Remarks":" - Bituminous Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.2547,52.23405 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Kirchmöser Power Station",
+    "Location":"Brandenburg",
+    "Capacity (MW)":"160",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.5811,51.4049 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Kraftwerk Westfalen []",
+    "Location":"Siegenbeckstraße, Hamm-Uentrop",
+    "Capacity (MW)":"305",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.4646,51.2814 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Lauchhammer-South Heating Plant",
+    "Location":"Lauchhammer, Saxony",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.43536,51.13153 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Lausward Power Plant",
+    "Location":"Düsseldorf",
+    "Capacity (MW)":"520",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.01102,51.17539 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Leuna Power Station",
+    "Location":"Leuna",
+    "Capacity (MW)":"158",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.1899,52.33433 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Lingen Reffinery Power Plant",
+    "Location":"Lingen",
+    "Capacity (MW)":"68",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.22344,51.10367 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Lippendorf Power Station",
+    "Location":"Lippendorf, Saxony",
+    "Capacity (MW)":"",
+    "Remarks":"1967 - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.2224,51.1056 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Lippendorf Power Station",
+    "Location":"Lippendorf, Saxony",
+    "Capacity (MW)":"1867",
+    "Remarks":"1999/2000 - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.28532,51.36509 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Lünen Power Station",
+    "Location":"Lünen, North Rhine-Westphalia",
+    "Capacity (MW)":"500",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.2742,51.3651 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Lünen Trianel Coal Power Plant",
+    "Location":"Lünen, North Rhine-Westphalia",
+    "Capacity (MW)":"750",
+    "Remarks":"2013 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.2953,49.2640 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Mannheim-Neckarau Power Station",
+    "Location":"Mannheim-Neckarau, Baden-Württemberg",
+    "Capacity (MW)":"2146",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.13486,48.55389 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Marbach Power Plant",
+    "Location":"Marbach",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.633,51.4134 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Marl-Chemiepark Power Station",
+    "Location":"Marl, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.5592,51.414 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Marl-Chemiepark Power Station",
+    "Location":"Marl, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.5375,52.18546 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Mehrum Power Station",
+    "Location":"Hohenhameln, Lower Saxony",
+    "Capacity (MW)":"690",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.57524,51.0153 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Merkenich Heating Power Station",
+    "Location":"Cologne, North Rhine-Westphalia",
+    "Capacity (MW)":"195",
+    "Remarks":" - Natural gas, Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.38328,51.28135 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Moers-Meerbeck Power Station",
+    "Location":"Moers-Meerbeck, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.5656,53.2920 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Moorburg Power Plant",
+    "Location":"Hamburg",
+    "Capacity (MW)":"1730",
+    "Remarks":"2015 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.38236,48.10524 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Munich-North Heating Power Plant",
+    "Location":"Munich",
+    "Capacity (MW)":"360",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.33202,48.6503 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Munich-South Heating Power Plant",
+    "Location":"Munich",
+    "Capacity (MW)":"698",
+    "Remarks":" - Natural gas, Oil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.36427,51.02165 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Neurath Power Station",
+    "Location":"Grevenbroich",
+    "Capacity (MW)":"4300",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.4009,50.5944 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Niederaussem Power Station",
+    "Location":"Niederaussem",
+    "Capacity (MW)":"3864",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.01412,52.08454 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Offleben Power Station",
+    "Location":"Offleben, Lower Saxony",
+    "Capacity (MW)":"",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.631,48.4088 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Pleinting Power Plant",
+    "Location":"Pleinting",
+    "Capacity (MW)":"725",
+    "Remarks":"1968 - 2008 - Light oil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.7582,54.08344 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Rostock Power Station",
+    "Location":"Rostock",
+    "Capacity (MW)":"600",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.8466,53.33563 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Rüstersieler Power Station",
+    "Location":"Rüstersieler, Lower Saxony",
+    "Capacity (MW)":"747",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.00531,49.13255 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Römerbrücke Heating Power Plant",
+    "Location":"Saarbrücken",
+    "Capacity (MW)":"110",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.59579,48.41483 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Sindelfingen Heating Power Plant",
+    "Location":"Sindelfingen",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.5717,51.23544 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Schkopau Power Station",
+    "Location":"Schkopau, Saxony-Anhalt",
+    "Capacity (MW)":"916",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [14.13104,53.5546 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Schwedt Power Station",
+    "Location":"Schwedt, Brandenburg",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.074,51.36124 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Power Plant Scholven",
+    "Location":"Gelsenkirchen",
+    "Capacity (MW)":"760",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.0207,51.35593 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Scholven A Power Station",
+    "Location":"Gelsenkirchen, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.4395,49.18132 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Schwandorf Power Station",
+    "Location":"Schwandorf, Bavaria",
+    "Capacity (MW)":"",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.3157,53.374 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Schilling Power Station",
+    "Location":"Stade, Lower Saxony",
+    "Capacity (MW)":"",
+    "Remarks":"1962 - Oil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [14.21171,51.3283 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Schwarze Pumpe power station",
+    "Location":"Spremberg",
+    "Capacity (MW)":"1600",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.13521,48.46569 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Stuttgart-Gaisburg Power Plant",
+    "Location":"Stuttgart",
+    "Capacity (MW)":"60",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.13117,48.48551 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Stuttgart-Münster Power Plant",
+    "Location":"Stuttgart",
+    "Capacity (MW)":"164",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.30289,51.1043 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Thierbach Power Station",
+    "Location":"Espenhain, Saxony",
+    "Capacity (MW)":"",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.349,53.3137 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Tiefstack Power Station",
+    "Location":"Hamburg",
+    "Capacity (MW)":"321",
+    "Remarks":" - Coal and gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.561,52.1123 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Veltheim Power Plant",
+    "Location":"Veltheim",
+    "Capacity (MW)":"880",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.5253,49.14588 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Völklingen-Fenne Power Plant",
+    "Location":"Völklingen",
+    "Capacity (MW)":"600",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.40539,51.34375 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Voerde Power Plant",
+    "Location":"Voerde, North Rhine-Westphalia",
+    "Capacity (MW)":"2234",
+    "Remarks":" - Coal (lignite)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.9269,49.0168 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Walheim Power Plant",
+    "Location":"Walheim",
+    "Capacity (MW)":"253",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.42524,51.31421 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Walsum Power Station",
+    "Location":"Walsum, North Rhine-Westphalia",
+    "Capacity (MW)":"410",
+    "Remarks":"1988 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.42264,51.16334 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Werdohl-Elverlingsen Power Station",
+    "Location":"Werdohl, North Rhine-Westphalia",
+    "Capacity (MW)":"637",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.43324,53.33595 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Wedel CHP Plant",
+    "Location":"Wedel",
+    "Capacity (MW)":"260",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.275,49.2053 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Weiher-3 CHP Plant",
+    "Location":"Quierschied-Weiher, Saarland",
+    "Capacity (MW)":"680",
+    "Remarks":" - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.19258,50.50214 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Weisweiler Power Plant",
+    "Location":"Eschweiler",
+    "Capacity (MW)":"2457",
+    "Remarks":" - Primary: Coal (lignite),"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.5821,51.4036 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Westfalen Hamm Power Plant[",
+    "Location":"Uentrop-Schmehausen, North Rhine-Westphalia",
+    "Capacity (MW)":"850",
+    "Remarks":"2007 - Natural gas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.849,53.3353 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Wilhelmshaven Power Station (E.ON)",
+    "Location":"Wilhelmshaven, Lower Saxony",
+    "Capacity (MW)":"747",
+    "Remarks":"1976 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.3526,51.3648 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Westerholt Power Station",
+    "Location":"Gelsenkirchen, North Rhine-Westphalia",
+    "Capacity (MW)":"",
+    "Remarks":"1997 - Coal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.1211,51.1686 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Wuppertal-Barmen Heating Power Plant",
+    "Location":"Wuppertal",
+    "Capacity (MW)":"56",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.771,51.14549 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Wuppertal-Elberfeld Heating Power Plant",
+    "Location":"Wuppertal",
+    "Capacity (MW)":"100",
+    "Remarks":" - "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.47585,48.27195 ]
+    },
+    "properties": {
+	"Type":"Thermal Power Station",
+    "Name":"Zolling CHP plant",
+    "Location":"Zolling, Bavaria",
+    "Capacity (MW)":"449",
+    "Remarks":" - Coal,"
+    }
+  }
+]
+}

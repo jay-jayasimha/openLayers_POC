@@ -1,0 +1,17 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  8.9871812,50.0591294 ]
+    },
+    "properties": {
+    "Name":"VAK",
+    "Location":"Kahl am Main",
+    "Capacity (MW)":15,
+    "Remarks":"1960–1985"
+    }
+]
+}
