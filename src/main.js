@@ -307,7 +307,7 @@ map.on ('click', function (e){
 });
 
 const typeSelect = document.getElementById('type');
-let draw, lastPoint; // global so we can remove it later
+let draw, lastPoint = new Array(); // global so we can remove it later
 function addInteraction() {
   const value = typeSelect.value;
   if (value !== 'None') {
@@ -316,12 +316,12 @@ function addInteraction() {
       type: typeSelect.value,
     });
     draw.on ("drawstart", function (e){
-      lastPoint = undefined;
+      //lastPoint = undefined;
     });
     if (value === "Point" || value === "LineString" || 
         value === "Circle" || value === "Polygon") {
       draw.on ("drawend", function (e) {
-        lastPoint = e.feature;
+        lastPoint.push(e.feature);
       });
     }
     map.addInteraction(draw);
@@ -336,9 +336,9 @@ typeSelect.onchange = function () {
 };
 
 document.getElementById('undo').addEventListener('click', function () {
-  if (lastPoint) {
-    source.removeFeature (lastPoint);
-    lastPoint = undefined;  
+  if (lastPoint.length) {
+    source.removeFeature (lastPoint[lastPoint.length - 1]);
+    lastPoint.pop ();  
   } else {
     draw.removeLastPoint ();
   }
