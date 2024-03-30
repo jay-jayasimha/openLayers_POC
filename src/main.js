@@ -125,7 +125,7 @@ const vectorLayerGroup = new LayerGroup ({
 //Vector Data of Points in EU Countries
 const germanyNuclearPlantsJSON = new VectorLayer ({
   source: new VectorSource ({
-    url: '../data/Germany_Nuclear_Power_Plants.geojson',
+    url: '/Germany_Nuclear_Power_Plants.geojson',
     format: new GeoJSON(),
   }),
   style: new Style({
@@ -150,7 +150,7 @@ const germanyNuclearPlantsJSON = new VectorLayer ({
 // olms.apply(map, styleJson);
 const germanyThermalPlantsJSON = new VectorLayer ({
   source: new VectorSource ({
-    url: '../data/Germany_Thermal_Power_Plants.geojson',
+    url: '/Germany_Thermal_Power_Plants.geojson',
     format: new GeoJSON(),
   }),
   style: new Style({
@@ -173,7 +173,7 @@ const germanyThermalPlantsJSON = new VectorLayer ({
 });
 const germanyHydroPlantsJSON = new VectorLayer ({
   source: new VectorSource ({
-    url: '../data/Germany_Hydro_Power_Plants.geojson',
+    url: '/Germany_Hydro_Power_Plants.geojson',
     format: new GeoJSON(),
   }),
   style: new Style({
@@ -197,7 +197,7 @@ const germanyHydroPlantsJSON = new VectorLayer ({
 
 const germanyWindPlantsJSON = new VectorLayer ({
   source: new VectorSource ({
-    url: '../data/Germany_Wind_Power_Plants.geojson',
+    url: '/Germany_Wind_Power_Plants.geojson',
     format: new GeoJSON(),
   }),
   style: new Style({
@@ -221,7 +221,7 @@ const germanyWindPlantsJSON = new VectorLayer ({
 
 const germanyPhotoVoltaicPlantsJSON = new VectorLayer ({
   source: new VectorSource ({
-    url: '../data/Germany_PhotoVoltaic_Power_Plants.geojson',
+    url: '/Germany_PhotoVoltaic_Power_Plants.geojson',
     format: new GeoJSON(),
   }),
   style: new Style({
