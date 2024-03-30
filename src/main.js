@@ -314,6 +314,7 @@ function addInteraction() {
     draw = new Draw({
       source: source,
       type: typeSelect.value,
+      freehand: true
     });
     draw.on ("drawstart", function (e){
       //lastPoint = undefined;
