@@ -1,4 +1,10 @@
-# OpenLayers + Vite
+# OpenLayers POC 
+
+I am using OpenLayers basic packages to render visualizations.I am using the OpenLayers version 8.2 which is the latest version as of this date. 
+
+The app demonstrates the following:
+
+1. Use basic maps from OpenStreetMaps and MapTilers to be able to render visualizations on:
 
 This example demonstrates how the `ol` package can be used with [Vite](https://vitejs.dev/).
 
