@@ -309,12 +309,21 @@ map.on ('click', function (e){
 const typeSelect = document.getElementById('type');
 let draw, lastPoint = new Array(); // global so we can remove it later
 function addInteraction() {
-  const value = typeSelect.value;
+  let value = typeSelect.value;
   if (value !== 'None') {
+    let flag = false;
+    if (value === 'FreeLineString') {
+      flag = true;
+      value = 'LineString';
+    }
+    if (value === 'FreePolygon') {
+      flag = true;
+      value = 'Polygon';
+    }
     draw = new Draw({
       source: source,
-      type: typeSelect.value,
-      freehand: true
+      type: value,
+      freehand: flag
     });
     draw.on ("drawstart", function (e){
       //lastPoint = undefined;
