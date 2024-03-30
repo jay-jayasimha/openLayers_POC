@@ -13,9 +13,9 @@ The app demonstrates the following:
     6. various types of containers
 
 2. The layers use 3 base layers which include: 
-    1. Base Image Layer, 
-    2. Base Tile Layer and
-    3. Base Vector Layer
+    1. Base Image Layer, (for maps)
+    2. Base Tile Layer (for maps) and
+    3. Base Vector Layer (for features, drawings and other data)
 
     Each of them have their own set of sources
 
