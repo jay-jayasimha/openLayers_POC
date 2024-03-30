@@ -1,0 +1,771 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.7076817,47.5389195 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Wyhlen Dam",
+    "Location":"Grenzach-Wyhlen",
+    "Capacity (MW)":"38.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.9071493,51.7390417 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Wendefurth Power Station",
+    "Location":"Wendefurth",
+    "Capacity (MW)":"80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.3374454,47.6298189 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Walchensee Hydroelectric Power Station",
+    "Location":"Kochel am See",
+    "Capacity (MW)":"124 ( 52 MW traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.549651,47.5863428 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Sylvenstein Dam",
+    "Location":"Langleger",
+    "Capacity (MW)":"7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.310626,51.7386962 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Söse Dam",
+    "Location":"Osterode am Harz",
+    "Capacity (MW)":"1.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.592558,49.566669 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Serrig Power Station",
+    "Location":"Serrig",
+    "Capacity (MW)":"12.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.4388113,48.4354009 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Schärding-Neuhaus Power Station",
+    "Location":"Neuhaus am Inn",
+    "Capacity (MW)":"96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.8338555,47.5868403 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Ryburg-Schwörstadt Power Station",
+    "Location":"Schwörstadt",
+    "Capacity (MW)":"120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.8126848,47.5700403 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Rheinfelden Power Station",
+    "Location":"Rheinfelden",
+    "Capacity (MW)":"25.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.9928968,48.4413727 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Pfrombach Power Station",
+    "Location":"Pfrombach",
+    "Capacity (MW)":"? ( also traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.90195,48.933664 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Mühlhausen Power Station",
+    "Location":"Mühlacker",
+    "Capacity (MW)":"1.68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.0589706,51.4896339 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Möhne Dam",
+    "Location":"Günne",
+    "Capacity (MW)":"7.04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.0480593,47.5566146 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Laufenburg Power Station",
+    "Location":"Laufenburg",
+    "Capacity (MW)":"106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.581553,50.365783 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Koblenz Power Station",
+    "Location":"Koblenz",
+    "Capacity (MW)":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.4073865,48.5791554 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Kachlet Power Station",
+    "Location":"Passau",
+    "Capacity (MW)":"52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.4119518,48.7503672 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Ingolstadt Hydroelectric Power Station",
+    "Location":"Ingolstadt",
+    "Capacity (MW)":"19.8 ( only traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.1104851,48.8327607 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Iffezheim Power Station",
+    "Location":"Iffezheim",
+    "Capacity (MW)":"104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.7497251,47.6542518 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Forggensee Dam",
+    "Location":"Rosshaupten",
+    "Capacity (MW)":"45.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.227222,50.124044 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Fankel Power Station",
+    "Location":"Fankel",
+    "Capacity (MW)":"16.4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.8827975,48.3589581 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Eitting Power Station",
+    "Location":"Eitting",
+    "Capacity (MW)":"? ( only traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.133225,48.112167 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Dettingen Power Station",
+    "Location":"Dettingen",
+    "Capacity (MW)":"11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.1436504,48.7344448 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Bittenbrunn Power Station",
+    "Location":"Bittenbrunn",
+    "Capacity (MW)":"20.2 ( only traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.73715,48.600881 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Bettenberg Power Station",
+    "Location":"Nagold",
+    "Capacity (MW)":"0.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.0208321,48.735722 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Bertoldsheim Power Station",
+    "Location":"Rennertshofen",
+    "Capacity (MW)":"18.9 ( only traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.2729812,48.7507492 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Bergheim Power Station",
+    "Location":"Bad Säckingen",
+    "Capacity (MW)":"23.7 ( only traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.956714,47.5577658 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Bad Säckingen Power Station",
+    "Location":"Bad Säckingen",
+    "Capacity (MW)":"73.6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.01305556,48.94638809 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Bad Abbach Power Station",
+    "Location":"Bad Abbach",
+    "Capacity (MW)":"3.5 MW ( traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.8577135,48.3052492 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Aufkirchen Power Station",
+    "Location":"Aufkirchen",
+    "Capacity (MW)":"40 ( 13 MW traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.2514513,47.6878681 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Albbecken Pumped Storage Station ( Witznau Pumped Storage Station)",
+    "Location":"Witznau",
+    "Capacity (MW)":"220"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.7150521,50.5252824 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Bleiloch Pumped Storage Station",
+    "Location":"Remptendorf",
+    "Capacity (MW)":"80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [6.8985558,49.796274 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Dhron Valley Dam",
+    "Location":"Heidenburg",
+    "Capacity (MW)":"8.1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.925,51.898611111111 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Erzhausen Pumped Storage Station",
+    "Location":"Erzhausen",
+    "Capacity (MW)":"220"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.3936458,53.4191238 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Geesthacht Pumped Storage Station",
+    "Location":"Geesthacht",
+    "Capacity (MW)":"131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.2872453,48.5051789 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Glems Pumped Storage Station",
+    "Location":"Glems",
+    "Capacity (MW)":"90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.0044706,50.5080843 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Goldisthal Pumped Storage Station",
+    "Location":"Goldisthal",
+    "Capacity (MW)":"1060"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.4747262,49.4870295 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Happurg Pumped Storage Station",
+    "Location":"Happurg",
+    "Capacity (MW)":"176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.1883067,47.7553855 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Häusern Pumped Storage Station",
+    "Location":"Häusern",
+    "Capacity (MW)":"140"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.4749408,50.6040914 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Hohenwarte II Pumped Storage Station",
+    "Location":"Hohenwarte",
+    "Capacity (MW)":"320"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.9256701,47.6523655 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Hotzenwald Pumped Storage Station",
+    "Location":"Wehr",
+    "Capacity (MW)":"992"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.4541378,51.411363 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Koepchenwerk Pumped Storage Station",
+    "Location":"Herdecke",
+    "Capacity (MW)":"153"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.5813522,50.0531314 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Langenprozelten Pumped Storage Station",
+    "Location":"Langenprozelten",
+    "Capacity (MW)":"160 ( only traction current)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.8701214,47.8740619 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Leitzach Pumped Storage Station",
+    "Location":"Vagen",
+    "Capacity (MW)":"93"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.8806436,50.5175266 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Markersbach Pumped Storage Station",
+    "Location":"Markersbach",
+    "Capacity (MW)":"1050"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.0066431,50.9895028 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Mittweida Pumped Storage Station",
+    "Location":"Mittweida",
+    "Capacity (MW)":"1.65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.6100435,51.0913301 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Niederwartha Pumped Storage Station",
+    "Location":"Niederwartha",
+    "Capacity (MW)":"120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.5031013,51.6460663 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Oder Valley Dam",
+    "Location":"Bad Lauterberg",
+    "Capacity (MW)":"5.04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.092592,50.3763118 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Ortenberg-Lissberg Pumped Storage Station",
+    "Location":"Ortenberg",
+    "Capacity (MW)":"2.3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.2845924,49.530104 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Reisach Pumped Storage Station",
+    "Location":"Reisach",
+    "Capacity (MW)":"105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.9933155,51.2247664 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Rönkhausen Pumped Storage Station",
+    "Location":"Rönkhausen-Glinge",
+    "Capacity (MW)":"160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.3530855,48.6685328 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Rudolf-Fettweis-Power Plant",
+    "Location":"Forbach",
+    "Capacity (MW)":"44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [13.0070293,48.8592093 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Rusel Power Plant",
+    "Location":"Deggendorf-Mietraching",
+    "Capacity (MW)":"44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [7.9536295,47.5656065 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Säckingen Pumped Storage Station",
+    "Location":"Bad Säckingen",
+    "Capacity (MW)":"472"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [12.281127,49.5521595 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Tanzmühle Pumped Storage Station",
+    "Location":"Döllnitz",
+    "Capacity (MW)":"25.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.0463078,51.1661452 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Waldeck I Pumped Storage Station",
+    "Location":"Hemfurth-Edersee",
+    "Capacity (MW)":"146"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [9.0465868,51.1665488 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Waldeck II Pumped Storage Station",
+    "Location":"Hemfurth-Edersee",
+    "Capacity (MW)":"440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [8.192625,47.6176199 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Waldshut Pumped Storage Station",
+    "Location":"Waldshut",
+    "Capacity (MW)":"176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [10.2657473,47.3495674 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Warmutsgund Pumped Storage Station",
+    "Location":"Obersdorf",
+    "Capacity (MW)":"4.72"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.9072566,51.7390151 ]
+    },
+    "properties": {
+	"Type":"Hydro Power Station",
+    "Name":"Wendefurth Pumped Storage Station",
+    "Location":"Wendefurth",
+    "Capacity (MW)":"80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [11.7171872,50.5763182 ]
+    },
+    "properties": {
+    "Name":"Wisenta Pumped Storage Station",
+    "Location":"Crispendorf",
+    "Capacity (MW)":"3.3"
+    }
+  }
+]
+}
